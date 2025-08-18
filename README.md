@@ -5,3 +5,5 @@ These diagrams were edited with instructor feedback then collated into a SDLC Di
 
 The Class Materials Folder include the lab manuals given to us by the instructor, along with various supporting documents.
 The Diagram Submissions folder holds all of the diagrams that we created that were eventually added into our SDLC Diagram Portfolio.
+
+Diagrams were created using Microsoft Visio and Visual Paradigm Project.
